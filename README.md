@@ -5,4 +5,4 @@ Programs made in the multiple languages required in the class of Engenharia de S
 Pull requests are welcome.
 
 # Utilization
-Free use material created by Vitor Brandao Raposo.
+Free use material created by Vitor Brandão Raposo.
